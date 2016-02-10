@@ -1,7 +1,7 @@
 <div class="container">
     <div class="homePanel">
         <h3>Recent Activity<h3/>
-            <span>dropdown list which allow for selection of players<span/>
+            <span>drop down list which allow for selection of players<span/>
             <table>
                 <tr>
                     <td>Dates<td/>
