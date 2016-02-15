@@ -10,6 +10,6 @@ This goal of this assignment is to implement 3 papges: game status, player portf
 - Rin Zhu
 
 # Changelog
-
+- First Commit
 
 
